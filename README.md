@@ -6,10 +6,11 @@ student, passionate about programming, especially web,
 my dream is to become a front-end developer.
 
 ### Online project
-- Danime: [https://danime.fun/](https://danime.fun/)
-- Dmobile: [https://dmobile.online/](https://dmobile.online/)
-- Dmovie: [https://dmovie.tokyo/](https://dmovie.tokyo/)
-- Nrodichvu: [https://nrodichvu.xyz/](https://nrodichvu.xyz/)
+- Danime: [https://danime.fun/](https://danime.fun/) (Reactjs)
+- Dshoes: [https://dshoes.netlify.app/](https://dshoes.netlify.app/) (Reactjs)
+- Dmobile: [https://dmobile.online/](https://dmobile.online/) (JS)
+- Dmovie: [https://dmovie.tokyo/](https://dmovie.tokyo/) (Reactjs)
+- Nrodichvu: [https://nrodichvu.xyz/](https://nrodichvu.xyz/) (PHP)
 
 ### My CV
 - online: [https://datisekai.github.io/LyThanhDat-CV/](https://datisekai.github.io/LyThanhDat-CV/)
