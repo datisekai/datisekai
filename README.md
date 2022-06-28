@@ -6,11 +6,10 @@ student, passionate about programming, especially web,
 my dream is to become a front-end developer.
 
 ### Online project
+- Dmovie: [https://dmovie-app.vercel.app/) (Nextjs)
 - Dtube: [https://dtube-datisekai.netlify.app/](https://dtube-datisekai.netlify.app/) (Reactjs & Nodejs)
 - Dshoes: [https://dshoes.netlify.app/](https://dshoes.netlify.app/) (Reactjs & Nodejs)
-- Danime: [https://danime.fun/](https://danime.fun/) (Reactjs)
 - Checkghim: [https://checkghim.online/](https://checkghim.online/)(ReactJs & NodeJs)
-- Dmovie: [https://dmovie.tokyo/](https://dmovie.tokyo/) (Reactjs)
 ### My CV
 - online: [https://datisekai.github.io/LyThanhDat-CV/](https://datisekai.github.io/LyThanhDat-CV/)
 
