@@ -10,8 +10,6 @@ my dream is to become a front-end developer.
 - Dtube: [https://dtube-datisekai.netlify.app/](https://dtube-datisekai.netlify.app/) (Reactjs & Nodejs)
 - Dshoes: [https://dshoes.netlify.app/](https://dshoes.netlify.app/) (Reactjs & Nodejs)
 - Checkghim: [https://checkghim.online/](https://checkghim.online/)(ReactJs & NodeJs)
-### My CV
-- online: [https://datisekai.github.io/LyThanhDat-CV/](https://datisekai.github.io/LyThanhDat-CV/)
 
 ### Skill
 
