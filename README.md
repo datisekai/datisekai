@@ -42,7 +42,7 @@
 <h2 align="center">🔥 Online Project 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div align=center>
+<div>
    <ul>
    <li>
     <a href="https://dmovie-app.vercel.app" title="datisekai">
