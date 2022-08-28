@@ -67,9 +67,9 @@
    </ul>   
 </div>
 
- <a href="https://www.topcv.vn/xem-cv/C1BXCQAEU1NQBQkGAVJSVgZSCQpYAlBcAgkJDQb087" target="blank">
-    <h4 align="center">See My CV Here</h4>
-  </a>
+ <a align="center" href="https://www.topcv.vn/xem-cv/C1BXCQAEU1NQBQkGAVJSVgZSCQpYAlBcAgkJDQb087" title="datisekai">
+      See my CV here
+    </a>
 
 <br>
 
