@@ -64,12 +64,13 @@
         Dshoes - ReactJS
     </a>
   </li>
-   </ul>   
-</div>
-
- <a align="center" href="https://www.topcv.vn/xem-cv/C1BXCQAEU1NQBQkGAVJSVgZSCQpYAlBcAgkJDQb087" title="datisekai">
+  <li> 
+    <a href="https://www.topcv.vn/xem-cv/C1BXCQAEU1NQBQkGAVJSVgZSCQpYAlBcAgkJDQb087" title="datisekai">
       See my CV here
     </a>
+  </li>
+   </ul>   
+</div>
 
 <br>
 
