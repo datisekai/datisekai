@@ -39,11 +39,16 @@
 
 <br>
 
-<h2 align="center">🔥 Online Project 🔥</h2>
+<h2 align="center">🔥 Experience 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div>
    <ul>
+    <li>
+    <a href="https://startoday-news.vercel.app" title="datisekai">
+        Startoday - NextJS
+    </a>
+  </li>
    <li>
     <a href="https://dmovie-app.vercel.app" title="datisekai">
         Dmovie - NextJS
@@ -59,8 +64,12 @@
         Dshoes - ReactJS
     </a>
   </li>
-   </ul>
+   </ul>   
 </div>
+
+ <a href="https://www.topcv.vn/xem-cv/C1BXCQAEU1NQBQkGAVJSVgZSCQpYAlBcAgkJDQb087" target="blank">
+    <h4 align="center">See My CV Here</h4>
+  </a>
 
 <br>
 
