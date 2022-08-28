@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="images/datisekai.svg" width="1200" alt="datisekai" />
+  <img src="images/datisekai.jpg" width="1200" alt="datisekai" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
