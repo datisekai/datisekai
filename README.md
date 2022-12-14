@@ -65,7 +65,7 @@
     </a>
   </li>
   <li> 
-    <a href="https://www.topcv.vn/xem-cv/C1BXCQAEU1NQBQkGAVJSVgZSCQpYAlBcAgkJDQb087" title="datisekai">
+    <a href="https://drive.google.com/file/d/1h8f9kodUuki1p_OK1X-GAU2OyxrAfr1F/view?usp=sharing" title="datisekai">
       See my CV here
     </a>
   </li>
