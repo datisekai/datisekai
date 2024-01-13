@@ -39,11 +39,6 @@
 
 <br>
 
-<h2 align="center">🔥 Experience 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<br>
-
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com -->
