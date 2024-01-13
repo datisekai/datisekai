@@ -42,36 +42,6 @@
 <h2 align="center">🔥 Experience 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div>
-   <ul>
-    <li>
-    <a href="https://startoday-news.vercel.app" title="datisekai">
-        Startoday - NextJS
-    </a>
-  </li>
-   <li>
-    <a href="https://dmovie-app.vercel.app" title="datisekai">
-        Dmovie - NextJS
-    </a>
-  </li>
-  <li> 
-    <a href="https://dtube-datisekai.netlify.app" title="datisekai">
-        Dtube - ReactJS
-    </a>
-  </li>
-   <li> 
-    <a href="https://dshoes.netlify.app" title="datisekai">
-        Dshoes - ReactJS
-    </a>
-  </li>
-  <li> 
-    <a href="https://drive.google.com/file/d/1h8f9kodUuki1p_OK1X-GAU2OyxrAfr1F/view?usp=sharing" title="datisekai">
-      See my CV here
-    </a>
-  </li>
-   </ul>   
-</div>
-
 <br>
 
 <h2 align="center">👽 Where to find me 👽</h2>
