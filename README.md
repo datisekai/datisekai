@@ -1,6 +1,10 @@
 <!-- Trungquandev -->
-<a href="#" target="_blank">
-  <img src="images/datisekai.jpg" width="1200" alt="datisekai" />
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/datisekai"
+  width="600"
+  height="300"
+/>
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
